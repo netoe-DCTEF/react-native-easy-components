@@ -16,4 +16,4 @@ npx expo install react-native-modal-datetime-picker @react-native-community/date
 > <strong>Os componentes estão em desenvolvimento, podendo ter bugs ou inconsistências!</strong>
 
 
-<h1>Faça um bom uso, boa sorte guerreiro!</h1>
+<h1>Faça um bom uso, boa sorte!</h1>
